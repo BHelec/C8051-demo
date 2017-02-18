@@ -31,3 +31,21 @@
 # Debug files
 *.dSYM/
 *.su
+
+# uvproj files
+*.iex
+*.A51
+*.LST
+*.OBJ
+hello_led
+*.LST
+*.MAP
+hello_led.SBR
+*.__i
+*.lnp
+*.plg
+*.uvgui.Administrator
+*.uvopt
+*.uvproj
+*.bak
+output
